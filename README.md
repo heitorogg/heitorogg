@@ -1,9 +1,7 @@
 # 🚀 Heitor Sales | Backend Dev & UI/UX Designer  
 
 🎨 Transformando pixels em experiências inesquecíveis.  
-🛠️ Construindo soluções robustas e performáticas.  
-
----
+🛠️ Construindo soluções robustas e performáticas.
 
 ## 🌟 Sobre mim  
 
@@ -56,19 +54,7 @@
 
 🚧 _Em breve._  
 
-Enquanto isso, confira meu [portfólio](heitorog.com.br) ou entre em contato!  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heitorog&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-## 🐍 GitHub Snake  
-<p align="center">
-  <img src="https://github.com/heitorog/heitorog/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+Enquanto isso, confira meu [portfólio](https://heitorog.com.br) ou entre em contato!  
 
 ---
 
@@ -81,12 +67,18 @@ Enquanto isso, confira meu [portfólio](heitorog.com.br) ou entre em contato!
   💬 <em>Aberto para colaborações, freelas e networking!</em>  
 </p>
 
----
-
 <p align="center">
   <em>"O design não é apenas o que parece e o que se sente. Design é como funciona."</em>  
 </p>
 
 <p align="center">
   ✨ <strong>Let's build something amazing!</strong> ✨
+</p>
+
+---
+
+## 🐍 Snake Game Interativo  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
