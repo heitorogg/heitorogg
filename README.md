@@ -1,13 +1,7 @@
 # 🚀 Heitor Sales | Backend Dev & UI/UX Designer  
 
-🎨 Transformando pixels em experiências inesquecíveis.  
-🛠️ Construindo soluções robustas e performáticas.
-
-## 🌟 Sobre mim  
-
-💡 **Backend Developer** apaixonado por criar arquiteturas eficientes e escaláveis.  
-🎨 **UI/UX Designer** focado em entregar interfaces intuitivas e impactantes.  
-📍 Amante de **design estratégico**, **performance** e **experiências imersivas**.  
+💡 Fala pessoal, bem vindos ao meu perfil
+Meu nome é Heitor Sales, atualmente sou UI/UX Designer e também trabalho como backend nas horas vagas e eu também sou motion designer
 
 ---
 
@@ -35,12 +29,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-### 🖥️ Operating Systems  
+### 🖥️ Working Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <p align="center"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"> <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"> <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"> </p>
+
 </p>
 
 ---
